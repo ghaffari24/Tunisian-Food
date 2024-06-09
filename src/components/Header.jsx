@@ -5,7 +5,7 @@ export default function Header() {
     <header>
       <Navbar expand="lg" className="bg-warning">
         <RxHamburgerMenu className="burger"/>
-        <Navbar.Brand href="#">TUNISIAN FOOD</Navbar.Brand>
+        <Navbar.Brand href="#">TUNISIAN FOOD 3W</Navbar.Brand>
       </Navbar>
     </header>
   );
